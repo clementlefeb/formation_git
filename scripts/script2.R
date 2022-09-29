@@ -1,3 +1,3 @@
-difference <- function(a,c){
-  return(a-c)
+difference <- function(a,d){
+  return(a-d)
 }
